@@ -1,1 +1,1 @@
-# .github
+# Netisanov company GitHub profile
